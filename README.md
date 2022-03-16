@@ -1,1 +1,5 @@
-# github-markdown-guide
+# 깃허브 마크다운 가이드
+
+### 각주<sup id="sup1">[1](#f1)</sup> 
+
+<b id="f1"><sup>1</sup></b> 컴퓨팅 자원 할당을 위해 시스템에 잠긴 비용을 뜻함.[↩](#sup1)<br>
