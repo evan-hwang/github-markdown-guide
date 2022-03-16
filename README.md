@@ -9,8 +9,9 @@
 
 **각주 번호 앵커 남기는법**
 ```html
-<b id="f1"><sup>1</sup></b> 각주 설명[↩](#sup1)<br>
+<b id="f1"><sup>[1](#sup1)</sup></b> 관련 문서  <br>
 ```
 
 **예시**
-<img width="1527" alt="image" src="https://user-images.githubusercontent.com/10377550/158629976-b37a3adc-92e3-440a-b58a-538d6b1b0265.png">
+<img width="1246" alt="image" src="https://user-images.githubusercontent.com/10377550/158632459-26fe8944-a62b-4660-8e16-d4da9424792a.png">
+
